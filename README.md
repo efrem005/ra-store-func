@@ -1,3 +1,6 @@
+[![Store-func](https://github.com/efrem005/ra-store-func/actions/workflows/web.yml/badge.svg)](https://github.com/efrem005/ra-store-func/actions/workflows/web.yml)
+## [GitHub Page](https://efrem005.github.io/ra-store-func/)
+
 Страница интернет-магазина
 ===
 
