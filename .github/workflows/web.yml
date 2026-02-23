@@ -2,7 +2,10 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]  # adjust if your default branch is different
+    branches: [ main, master ]
+
+permissions:
+  contents: write   # разрешаем запись в репозиторий
 
 jobs:
   build-and-deploy:
